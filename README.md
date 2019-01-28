@@ -1,1 +1,1 @@
-This is Rest applcation
+Muzix app with test cases.
